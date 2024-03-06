@@ -1,1 +1,3 @@
-# IDEA-student-demo.github.io
+## Sample Portfolio Website
+
+![sample image](url)
