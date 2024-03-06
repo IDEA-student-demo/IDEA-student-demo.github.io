@@ -1,3 +1,3 @@
 ## Sample Portfolio Website
 
-![sample image](url)
+![sample image](assets/bulbasaur.jpg)
